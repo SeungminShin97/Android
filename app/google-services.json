@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330848016950",
+    "project_id": "final-assignment-b1deb",
+    "storage_bucket": "final-assignment-b1deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330848016950:android:5f61c035228906f2435697",
+        "android_client_info": {
+          "package_name": "com.example.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330848016950-97g8b26domscphc77gcmsrhk32eqorjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diary",
+            "certificate_hash": "56ec61181ab7a49a5b7b917218b11668ea3b6933"
+          }
+        },
+        {
+          "client_id": "330848016950-koh36r8oqoanagvhcajqj08sr9jsudp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_S99MrvcBwbe3_d3tjPKLfwVZUXp2p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330848016950-koh36r8oqoanagvhcajqj08sr9jsudp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
